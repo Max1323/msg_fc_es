@@ -1,2 +1,2 @@
-# msg_fc_es
+# Metal Slader Glory: Spanish Translation
 Metal Slader Glory (Famicom) Spanish translation
