@@ -1,0 +1,2 @@
+Valor demasiado grande o demasiado pequeño para UInt32.
+Ejemplo: falto cerrar {02 -> {02}
